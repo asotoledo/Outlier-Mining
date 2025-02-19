@@ -1,6 +1,6 @@
 # Outlier Mining in Criminal Networks: The Role of Machine Learning and Outlier Detection Models
 This work explores the identification and disruption of criminal networks through an innovative approach that combines complex network theory, machine learning, and outlier detection models. Using real data from criminal records provided by the Military Police of Minas Gerais (Brazil), advanced data cleaning and processing techniques were applied, resulting in a robust set of variables that describe interactions within criminal networks. Six outlier detection models were evaluated, including Outlier Score 1, Outlier Score 2, Isolation Forest, Local Outlier Factor, Robust Covariance, and SGD One-Class SVM, with the aim of identifying key agents in three disruption approaches: human, social, and mixed capital. The Outlier Score 1 model, applied to the social capital approach, proved to be the most effective, increasing the number of components, reducing network efficiency, and fragmenting the largest connected components. The results demonstrate that the combination of complex networks and outlier detection offers a promising and effective strategy to disrupt criminal networks, highlighting the importance of interdisciplinary collaboration and advanced technologies in public safety.
 
-Cite this article:
+Cite this work:
 
 Toledo, A.S.O., Carpi, L.C., Atman, A.P.F. et al. Outlier mining in criminal networks: the role of machine learning and outlier detection models. J Comput Soc Sc 8, 36 (2025). https://doi.org/10.1007/s42001-025-00364-0
